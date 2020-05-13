@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "f1.h"
+#include "jeu.h"
 
 int main() 	
 {
